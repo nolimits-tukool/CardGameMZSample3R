@@ -1,0 +1,2 @@
+# CardGameMZSample3R
+HDノンフィールド型カードゲーム・ツクールMZ用サンプルプロジェクト
