@@ -34,9 +34,9 @@ PLiCy「カード使いのケイシー3R」にて、ブラウザ版の [テス�
 
 ---
 
-#  [download](https://github.com/nolimits-tukool/CardGameMZSample3R/blob/main/CardMZSample3R.zip)
+#  [download](https://github.com/nolimits-tukool/CardGameMZSample3R/raw/refs/heads/main/CardMZSample3R.zip)
 
-### 「カードゲームMZサンプル3R」（全プラグイン入り）を [download](https://github.com/nolimits-tukool/CardGameMZSample3R/blob/main/CardMZSample3R.zip)  
+### 「カードゲームMZサンプル3R」（全プラグイン入り）を [download](https://github.com/nolimits-tukool/CardGameMZSample3R/raw/refs/heads/main/CardMZSample3R.zip)  
 　　RPGツクールMZ専用プロジェクトです  
 　　download解凍後は「readme.txt」に利用方法が書いてあります
 
