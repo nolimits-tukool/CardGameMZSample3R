@@ -4,7 +4,7 @@
 カードゲームを作りたいけど、どうやって作っていいか分からない方、  
 自分の描いたイラストをゲームにしてみたい方などへ 
   
-今作は [無印３](https://github.com/nolimits-tukool/CardGameMZSample3) を **「HD画面ノンフィールド型RPG」** に改造したものです  
+今作は [無印３](https://github.com/nolimits-tukool/CardGameMZSample3) を **「HD画面ノンフィールド型カードゲーム」** に改造したものです  
 プラグイン・コモンイベント数が増えているため **「やや上級者向け」** のサンプルプロジェクトになります  
 （内容が難しいと感じる方は先に [無印３](https://github.com/nolimits-tukool/CardGameMZSample3) から始めて下さい）
 
