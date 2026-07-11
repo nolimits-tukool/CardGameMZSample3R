@@ -37,12 +37,12 @@ PLiCy「カード使いのケイシー3R」にて、ブラウザ版の [テス�
 #  [download](https://github.com/nolimits-tukool/CardGameMZSample3R/raw/refs/heads/main/CardMZSample3R.zip)
 
 ### 「カードゲームMZサンプル3R」（全プラグイン入り）を [download](https://github.com/nolimits-tukool/CardGameMZSample3R/raw/refs/heads/main/CardMZSample3R.zip)  
-　　RPGツクールMZ専用プロジェクトです  
-　　download解凍後は「readme.txt」に利用方法が書いてあります  
-　　本プロジェクトのデータを土台として改変し、自作ゲーム作品を完成させるのも問題ありません
+- RPGツクールMZ専用プロジェクトです
+- download解凍後は「readme.txt」に利用方法が書いてあります
+- 本プロジェクトのデータを土台として改変し、自作ゲーム作品を完成させるのも問題ありません
+- Windows11の[「スマートアプリコントロール」でブロックされる場合はこちら](https://github.com/nolimits-tukool/HandlingSmartAppControl)
 
 ### 現在のバージョン： v3R.0.0 (2026/05/15)
-  
-  
+   
 # [リポジトリ一覧へ](https://github.com/nolimits-tukool?tab=repositories)
 
